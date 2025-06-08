@@ -1,7 +1,7 @@
 # 📊 HR Active/Terminated Employee Dashboard
 ## Goal: Analyze workforce trends over the past 8 years to understand hiring and termination patterns across departments.
 
-[Full Dashboard](https://public.tableau.com/app/profile/tiffin.brown1595/viz/HSDashboard_17487139766400/Dashboard)
+[Full Dashboard](https://public.tableau.com/app/profile/tiffin.brown1595/viz/HSDashboard_17487139766400/Dashboard1)
 
 This Tableau dashboard offers a comprehensive overview of employee movement within the organization, segmented by:
 
